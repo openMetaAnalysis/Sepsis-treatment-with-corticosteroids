@@ -12,8 +12,6 @@ Short url: http://openmetaanalysis.github.io/sepsis-steroids
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
 * [Evidence search](files/searching/evidence-search.md) for this review
 
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
-
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](files/study-details/pico-table.md) (not available)
 * [Risk of bias assessment](files//study-details/risk-of-bias.md) (not available)
