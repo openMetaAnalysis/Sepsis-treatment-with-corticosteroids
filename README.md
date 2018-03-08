@@ -40,6 +40,10 @@ References:
 
 #### New study(s) undergoing review
 1. Lv QQ, Gu XH, Chen QH, Yu JQ, Zheng RQ. Early initiation of low-dose hydrocortisone treatment for septic shock in adults: A randomized clinical trial. Am J Emerg Med. 2017 Jun 5. pii: S0735-6757(17)30444-8. doi: 10.1016/j.ajem.2017.06.004. PMID: [28615145](http://pubmed.gov/28615145)
+2. Annane D, Renault A, Brun-Buisson C, Megarbane B, Quenot JP, Siami S, Cariou A, Forceville X, Schwebel C, Martin C, Timsit JF, Misset B, Ali Benali M, Colin G, Souweine B, Asehnoune K, Mercier E, Chimot L, Charpentier C, François B, Boulain T, Petitpas F, Constantin JM, Dhonneur G, Baudin F, Combes A, Bohé J, Loriferne JF, Amathieu R, Cook F, Slama M, Leroy O, Capellier G, Dargent A, Hissem T, Maxime V, Bellissant E; CRICS-TRIGGERSEP Network. Hydrocortisone plus Fludrocortisone for Adults with Septic Shock. N Engl J Med. 2018 Mar
+1;378(9):809-818. doi: 10.1056/NEJMoa1705716. PMID: [29490185](http://pubmed.gov/29490185)
+3. Venkatesh B, Finfer S, Cohen J, Rajbhandari D, Arabi Y, Bellomo R, Billot L, Correa M, Glass P, Harward M, Joyce C, Li Q, McArthur C, Perner A, Rhodes A, Thompson K, Webb S, Myburgh J; ADRENAL Trial Investigators and the Australian–New Zealand Intensive Care Society Clinical Trials Group. Adjunctive Glucocorticoid Therapy in Patients with Septic Shock. N Engl J Med. 2018 Mar 1;378(9):797-808. doi: 10.1056/NEJMoa1705835. Epub 2018 Jan 19. PMID: [29347874](http://pubmed.gov/29347874)
+
 
 #### New study(s) *excluded* 
 None
