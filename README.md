@@ -1,4 +1,4 @@
-# Sepsis treatment with corticosteroids
+# Sepsis (severe sepsis or septic shock) treatment with corticosteroids
 
 A living systematic review
 
@@ -7,6 +7,8 @@ Short url: http://openmetaanalysis.github.io/sepsis-steroids
 **Clinical summary:** This meta-analysis suggests that low dose corticosteroids in patients with septic shock who are hypotensive despite pressors *may be* effective at reducing mortality. While the Cochrane Collaboration (citation below) found significant benefit in the subgroup of patients with septic shock, the Cochrane used Mantel-Haenszel fixed estimator. This method may be too optimistic because the heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 57%. In this setting the Knapp-Hartung estimator may be better.(PMID: [24727843](https://pubmed.gov/24727843) )
 
 [Keep current with this topic](Keep-up.md)
+
+Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s).(1) A comparison of studies include in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
@@ -31,7 +33,8 @@ References:
 ----------------------------------
 ### Systematic review(s)
 #### Most recent review(s) at time of last revision of this repository
-1. Annane D, Bellissant E, Bollaert PE, Briegel J, Keh D, Kupfer Y. Corticosteroids for treating sepsis. Cochrane Database Syst Rev. 2015 Dec 3;(12):CD002243. doi: 10.1002/14651858.CD002243.pub3[10.1002/14651858.CD002243.pub3](http://dx.doi.org/10.1002/14651858.CD002243.pub3). PMID: [26633262](http://pubmed.gov/26633262)
+1. Gibbison B, López-López JA, Higgins JP, Miller T, Angelini GD, Lightman SL, Annane D. Corticosteroids in septic shock: a systematic review and network meta-analysis. Crit Care. 2017 Mar 28;21(1):78. doi: [10.1186/s13054-017-1659-4](http://dx.doi.org/10.1186/s13054-017-1659-4). PMID: [28351429](http://pubmed.gov/28351429); PMCID: [PMC5371269](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371269/)
+2. Annane D, Bellissant E, Bollaert PE, Briegel J, Keh D, Kupfer Y. Corticosteroids for treating sepsis. Cochrane Database Syst Rev. 2015 Dec 3;(12):CD002243. doi: [10.1002/14651858.CD002243.pub3](http://dx.doi.org/10.1002/14651858.CD002243.pub3). PMID: [26633262](http://pubmed.gov/26633262)
 
 ### Randomized controlled trials that are more recent
 1. 1: Keh D, Trips E, Marx G, Wirtz SP, Abduljawwad E, Bercker S, et al; SepNet–Critical Care Trials Group.. Effect of Hydrocortisone on Development of Shock Among Patients With Severe Sepsis: The HYPRESS Randomized Clinical Trial. JAMA. 2016 Nov 1;316(17):1775-1785. doi: [10.1001/jama.2016.14799](http://dx.doi.org/10.1001/jama.2016.14799). PMID: [27695824](http://pubmed.gov/27695824).
