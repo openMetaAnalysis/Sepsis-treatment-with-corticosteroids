@@ -8,7 +8,7 @@ Short url: http://openmetaanalysis.github.io/sepsis-steroids
 
 The benefit among vasopressor-dependent patients does not depend on their adrenal status or co-administration of fludrocortisone (see [additional forest plots](files/forest-plots))
 
-Meta-regression dooes not find modulators on the effect of the intervention.
+Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
 
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
 * [Keep current with this topic](Keep-up.md)
