@@ -6,7 +6,7 @@ Short url: http://openmetaanalysis.github.io/sepsis-steroids
 
 **Clinical summary:** This meta-analysis suggests that low dose corticosteroids in patients with septic shock who are hypotensive despite pressors *may be* effective at reducing mortality. While the Cochrane Collaboration (citation below) found significant benefit among all patients with septic shock, the Cochrane used Mantel-Haenszel fixed estimator. This method may be too optimistic because the heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 57%. In this setting the Knapp-Hartung estimator may be better.(PMID: [24727843](https://pubmed.gov/24727843) )
 
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
+* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
 * [Keep current with this topic](Keep-up.md)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
@@ -20,7 +20,7 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior s
 * [Risk of bias assessment](files//study-details/risk-of-bias.md) (not available)
 * [Forest plots](files//forest-plots) ([source data](files/data))
 * [Meta-regressions](files//metaregression) ([source data](files/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](files/reconcilation-tables) (not available)
+* [Reconciliation of conclusions and trials included with prior meta-analyses](files/reconcilation-tables)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 
