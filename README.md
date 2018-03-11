@@ -24,7 +24,7 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior s
 * [Risk of bias assessment](files//study-details/risk-of-bias.md) (not available)
 * [Forest plots](files//forest-plots) ([source data](files/data))
 * [Meta-regressions](files//metaregression) ([source data](files/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](files/reconcilation-tables)
+* [Reconciliation of conclusions and trials included with prior meta-analyses](files/reconciliation-tables/)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 
