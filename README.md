@@ -9,22 +9,22 @@ Short url: http://openmetaanalysis.github.io/sepsis-steroids
 The benefit among vasopressor-dependent patients does not depend on their adrenal status or co-administration of fludrocortisone (see [additional forest plots](files/forest-plots))
 
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
-
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
-* [Keep current with this topic](Keep-up.md)
+* [Keep current with this topic](Keep-up.md) (under construction)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s).(1) A comparison of studies include in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
-* [Evidence search](files/searching/evidence-search.md) for this review
+* [Evidence search](files/searching/evidence-search.md) for this review (under construction)
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](files/study-details/pico-table.md) (not available)
-* [Risk of bias assessment](files//study-details/risk-of-bias.md) (not available)
+* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
+* [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
+* [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
 * [Forest plots](files//forest-plots) ([source data](files/data))
 * [Meta-regressions](files//metaregression) ([source data](files/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](files/reconciliation-tables/)
+* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 
