@@ -4,11 +4,15 @@ A living systematic review
 
 Short url: http://openmetaanalysis.github.io/sepsis-steroids
 
-**Clinical summary:** This meta-analysis suggests that low dose corticosteroids in patients with septic shock who are hypotensive despite pressors *is* effective at reducing mortality (relative risk 0.91; 95% CI 0.84 to 0.99). While the Cochrane Collaboration (citation below) found significant benefit among all patients with septic shock, the Cochrane used Mantel-Haenszel fixed estimator. This method may be too optimistic because the heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 57%. In this setting the Knapp-Hartung estimator may be better (PMID: [24727843](https://pubmed.gov/24727843)).
+**Clinical summary:** This meta-analysis suggests that low dose corticosteroids in patients with septic shock who are hypotensive despite pressors *is* effective at reducing mortality (relative risk 0.91; 95% CI 0.84 to 0.99). The most effective therapy appears to be hydrocortisone for 200 mg per day for seven days. 
 
-The benefit among vasopressor-dependent patients does not depend on their adrenal status or co-administration of fludrocortisone (see [additional forest plots](files/forest-plots))
+While the previous Cochrane Collaboration (citation below) found significant benefit among all patients with septic shock, the Cochrane used Mantel-Haenszel fixed estimator. This method may be too optimistic because the heterogenteity as measured by I<sup>2</sup> was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 57%. In this setting the Knapp-Hartung estimator may be better (PMID: [24727843](https://pubmed.gov/24727843)).
 
 Exploration of heterogeneity of results is limited by inconsistent reporting of co-treatments such as volumes of fluids and duration of pressors prior to receiving steroids. It is not clear that patients in recent trials received 30 ml/kg fluids prior to receiving pressors and steroids. 
+
+Among the four largest trials, CORTICUS was the only one without a trend towards reduction in mortality. Of the four trials, CORTICUS continued steroids for 11 days while the other three stopped at 7 days.
+
+The benefit among vasopressor-dependent patients does not depend on their adrenal status or co-administration of fludrocortisone (see [additional forest plots](files/forest-plots))
 
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
