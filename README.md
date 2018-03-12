@@ -50,11 +50,11 @@ References:
 4. Keh D, Trips E, Marx G, Wirtz SP, Abduljawwad E, Bercker S, et al; SepNet–Critical Care Trials Group.. Effect of Hydrocortisone on Development of Shock Among Patients With Severe Sepsis: The HYPRESS Randomized Clinical Trial. JAMA. 2016 Nov 1;316(17):1775-1785. doi: [10.1001/jama.2016.14799](http://dx.doi.org/10.1001/jama.2016.14799). PMID: [27695824](http://pubmed.gov/27695824).
 
 #### New study(s) undergoing review
-None
+1. Tongyoo S, Permpikul C, Mongkolpun W, Vattanavanit V, Udompanturak S, Kocak M, Meduri GU. Hydrocortisone treatment in early sepsis-associated acute respiratory distress syndrome: results of a randomized controlled trial. Crit Care. 2016 Oct 15;20(1):329. PMID: [27741949](http://pubmed.gov/27741949); PMCID: [PMC5065699](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27741949/)
 
 #### New study(s) *excluded* 
-1. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 mg/day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2017 Nov 15. doi: [10.1097/SHK.0000000000001061](http://dx.doi.org/10.1097/SHK.0000000000001061). PMID: [29176402](http://pubmed.gov/29176402). 'Compared hydrocortisone 200 mg/day vs 100 mg/day'
-
+1. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 mg/day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2017 Nov 15. doi: [10.1097/SHK.0000000000001061](http://dx.doi.org/10.1097/SHK.0000000000001061). PMID: [29176402](http://pubmed.gov/29176402). *Compared hydrocortisone 200 mg/day vs 100 mg/day*
+2. Hyvernat H, Barel R, Gentilhomme A, Césari-Giordani JF, Freche A, Kaidomar M,  Goubaux B, Pradier C, Dellamonica J, Bernardin G. Effects of Increasing Hydrocortisone to 300 mg Per Day in the Treatment of Septic Shock: a Pilot Study. Shock. 2016 Nov;46(5):498-505. PMID: [27405061](http://pubmed.gov/27405061) *Compared hydrocortisone 300 mg/day vs 200 mg/day*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
