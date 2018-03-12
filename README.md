@@ -8,7 +8,7 @@ Short url: http://openmetaanalysis.github.io/sepsis-steroids
 
 The benefit among vasopressor-dependent patients does not depend on their adrenal status or co-administration of fludrocortisone (see [additional forest plots](files/forest-plots))
 
-Exploration of heterogeneity of results is limited by inconsistent reporting of co-treatments such as volumes of fluids and duration of pressors prior to receiving steroids.
+Exploration of heterogeneity of results is limited by inconsistent reporting of co-treatments such as volumes of fluids and duration of pressors prior to receiving steroids. It is not clear that patients in recent trials received 30 ml/kg fluids prior to receiving pressors and steroids. 
 
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
