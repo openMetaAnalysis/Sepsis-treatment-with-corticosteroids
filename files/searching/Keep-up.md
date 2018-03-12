@@ -6,7 +6,7 @@ Receive notifications about possible studies when results posted at [ClinicalTri
 Search strategy is **p(sepsis OR septic shock) AND (steroids OR hydrocortisone) | Interventional Studies**:
 
 * [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=preterm+AND+%28progesterone+OR+Hydroxyprogesterone%29&type=Intr&rslt=&recr=&age_v=&gndr=&cond=&intr=&titles=&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&rcv_s=&rcv_e=&lup_s=&lup_e=)
-* Receive updates by [email](hhttps://feedburner.google.com/fb/a/mailverify?uri=ClinicaltrialsgovSepsisSteroids) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovSepsisSteroids)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicaltrialsgovSepsisSteroids) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovSepsisSteroids)
 
 Receive notifications about possible studies when indexed at PubMed
 -------------------------
