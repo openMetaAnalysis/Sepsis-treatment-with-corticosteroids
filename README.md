@@ -55,6 +55,7 @@ References:
 #### New study(s) *excluded* 
 1. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 mg/day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2017 Nov 15. doi: [10.1097/SHK.0000000000001061](http://dx.doi.org/10.1097/SHK.0000000000001061). PMID: [29176402](http://pubmed.gov/29176402). *Compared hydrocortisone 200 mg/day vs 100 mg/day*
 2. Hyvernat H, Barel R, Gentilhomme A, Césari-Giordani JF, Freche A, Kaidomar M,  Goubaux B, Pradier C, Dellamonica J, Bernardin G. Effects of Increasing Hydrocortisone to 300 mg Per Day in the Treatment of Septic Shock: a Pilot Study. Shock. 2016 Nov;46(5):498-505. PMID: [27405061](http://pubmed.gov/27405061) *Compared hydrocortisone 300 mg/day vs 200 mg/day*
+3. Huh JW, Choi HS, Lim CM, Koh Y, Oh YM, Shim TS, Lee SD, Kim WS, Kim DS, Hong SB. Low-dose hydrocortisone treatment for patients with septic shock: a pilot study comparing 3days with 7days. Respirology. 2011 Oct;16(7):1088-95. doi:[ 10.1111/j.1440-1843.2011.02018.x](http://dx.doi.org/ 10.1111/j.1440-1843.2011.02018.x). PMID: [21726354](http://pubmed.gov/21726354) *Compared hydrocortisone 100 mg/day for 3 days versus 7 days*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
