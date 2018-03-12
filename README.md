@@ -14,6 +14,8 @@ Among the four largest trials, CORTICUS was the only one without a trend towards
 
 The benefit among vasopressor-dependent patients does not depend on their adrenal status or co-administration of fludrocortisone (see [additional forest plots](files/forest-plots))
 
+Two dose finding studies, that were excluded (links are below) due to not having a control group, suggest 100 mg per day of hydrcortisone may be more effective and need further examination.
+
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
 * [Keep current with this topic](files/searching/Keep-up.md)
