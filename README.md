@@ -51,6 +51,9 @@ References:
 
 #### New study(s) undergoing review
 1. Tongyoo S, Permpikul C, Mongkolpun W, Vattanavanit V, Udompanturak S, Kocak M, Meduri GU. Hydrocortisone treatment in early sepsis-associated acute respiratory distress syndrome: results of a randomized controlled trial. Crit Care. 2016 Oct 15;20(1):329. PMID: [27741949](http://pubmed.gov/27741949); PMCID: [PMC5065699](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27741949/)
+2. Mirea L, Ungureanu R, Pavelescu D, Grintescu I, Dumitrache C, Grintescu I, et al. Continuous administration of corticosteroids in septic shock can reduce risk of hypernatremia. Critical Care. 2014 Mar 17;18(1):P239.  https://doi.org/10.1186/cc13429
+3. Mirea L, Ungureanu R, Pavelescu D, Grintescu I, Dumitrache C, Mirea D, et al. Impact of corticosteroid administration in septic shock on glycemic variability. Critical Care. 2014 Mar 17;18(1):P445. https://doi.org/10.1186/cc13635
+
 
 #### New study(s) *excluded* 
 1. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 mg/day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2017 Nov 15. doi: [10.1097/SHK.0000000000001061](http://dx.doi.org/10.1097/SHK.0000000000001061). PMID: [29176402](http://pubmed.gov/29176402). *Compared hydrocortisone 200 mg/day vs 100 mg/day*
