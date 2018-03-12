@@ -1,50 +1,45 @@
 # Evidence search
-(under construction)
 ## Inclusion criteria
-Randomized trials of [disease] that compare [intervention] to placebo.
+Randomized trials of adults with [sepsis] that compare [steroids] to placebo.
 
 ## Reconciliation tables
-(under construction)
-* [Comparison of included studies with prior systematic reviews](../reconciliation-tables)
+* [Comparison of included studies with prior systematic reviews](../reconciliation-tables/Reconciliation%20of%20studies.pdf)
 
 ## PubMed
 ### Boolean term searching
 
-[supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
-* Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
-* 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
+[(sepsis OR septic shock) AND (steroids OR hydrocortisone) AND random\*](https://www.ncbi.nlm.nih.gov/pubmed/?term=(sepsis+OR+septic+shock)+AND+(steroids+OR+hydrocortisone)+AND+random*)
+* Retrieves 17 articles in hand (100% sensitivity) (search 3/11/2018)
+* [90 citations](https://www.ncbi.nlm.nih.gov/pubmed/?term=(((sepsis+OR+septic+shock)+AND+(steroids+OR+hydrocortisone)+AND+random*))+AND+(%222014%2F10%22%5BDate+-+Publication%5D+%3A+%223000%22%5BDate+-+Publication%5D)) when limited to published after 10/2014 (search date of Cochrane review)
+  * 0 additional studies found (search results reviewed 3/11/2018)
 
 ### Vector searching ('Related citations' search)
-(under construction)
-Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
-* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
-* 99 citations when above limited to years 2014 - 2017 (time period after Cochrane review)
-  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
+
+Seed articles: PMIDs [786190, 6384785, 3202402, 9559600, 10321661, 12186604, 16276166, 16850006, 17992396, 17426195, 18184957, 21059778, 24557425, 27695824, 28615145, 29347874, 29490185](https://www.ncbi.nlm.nih.gov/pubmed/?term=786190+OR+6384785+OR+3202402+OR+9559600+OR+10321661+OR+12186604+OR+16276166+OR+16850006+OR+17992396+OR+17426195+OR+18184957+OR+21059778+OR+24557425+OR+27695824+OR+28615145+OR+29347874+OR+29490185)
+* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed/?term=786190+OR+6384785+OR+3202402+OR+9559600+OR+10321661+OR+12186604+OR+16276166+OR+16850006+OR+17992396+OR+17426195+OR+18184957+OR+21059778+OR+24557425+OR+27695824+OR+28615145+OR+29347874+OR+29490185)
+* 195 citations when above limited to containing word *random\** and published after 10/2014 (search date of Cochrane review)
+  * [1 possible articles found](https://pubmed.gov/27741949)
 
 ## ClinicalTrials.gov
 
-`supraventricular tachycardia AND Valsalva`
-* [1 citations](https://clinicaltrials.gov/ct2/results?term=supraventricular+tachycardia+AND+Valsalva&Search=Search) (search 6/19/2017)
-  * [NCT02216240](https://clinicaltrials.gov/ct2/show/NCT02216240) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
+`(sepsis OR septic shock) AND (steroids OR hydrocortisone)`
+* [126 citations](https://clinicaltrials.gov/ct2/results?term=(sepsis%20OR%20septic%20shock)%20AND%20(steroids%20OR%20hydrocortisone)&Search=Search) (search 3/11/2018)
+  * 14 citations with results
+  * [NCT01150409](https://clinicaltrials.gov/ct2/show/results/NCT01150409) did not meet inclusion criteria as not patients in control group
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
-`supraventricular tachycardia AND Valsalva`
-* [1 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=hypertension) (search 6/19/2017)
-  * [http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182/abstract](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182.pub4/full) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
+`(sepsis OR septic shock) AND (steroids OR hydrocortisone)`
+* [332 citations](http://onlinelibrary.wiley.com.proxy.kumc.edu:2048/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=(sepsis%20OR%20septic%20shock)%20AND%20(steroids%20OR%20hydrocortisone)) (search 3/11/2018)
+  * 2 citations undergoing review: https://doi.org/10.1186/cc13429 and https://doi.org/10.1186/cc13635
 
 ## Cited reference searching
-(under construction)
 
 ### Identifying seminal studies that are the most highly cited
-Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
- * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
+Annane D, Bellissant E, Bollaert PE, Briegel J, Keh D, Kupfer Y. Corticosteroids for treating sepsis. Cochrane Database Syst Rev. 2015 Dec 3;(12):CD002243. doi: [10.1002/14651858.CD002243.pub3](http://dx.doi.org/10.1002/14651858.CD002243.pub3). PMID: [26633262](http://pubmed.gov/26633262).
+ * [585 citations](https://scholar.google.com/scholar?cites=6335295576472288156&as_sdt=2005&sciodt=0,5&hl=en) (search 3/11/2018)
 
-Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
- * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
-
-
-### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
-Mehta et al. 
-* [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
-* [x additional studies found](https://pubmed.gov/25503625,27045252)
+### Searching 'random*' within the highly citing studies using Google Scholar (3/11/2018)
+Annane et al. 
+* [153 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\* and published starting 2014)
+* 0 additional studies found (search results reviewed 3/11/2018)
