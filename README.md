@@ -12,7 +12,7 @@ Exploration of heterogeneity of results is limited by inconsistent reporting of 
 
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
-* [Keep current with this topic](Keep-up.md)
+* [Keep current with this topic](files/searching/Keep-up.md)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
 
