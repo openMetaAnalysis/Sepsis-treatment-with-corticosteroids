@@ -1,4 +1,4 @@
-# Sepsis (severe sepsis or septic shock) treatment with corticosteroids
+# Septic shock treatment with corticosteroids
 
 A living systematic review
 
