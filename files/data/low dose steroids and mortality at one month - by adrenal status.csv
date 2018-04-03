@@ -1,8 +1,0 @@
-Study,            Year,PMID,experimental_events,experimental_total,control_events,control_total, cofactor.patients,cofator.dose
-Annane (Ger-Inf-05),2002,12186604,60,114,73,115, 'Septic shock with pressors with adrenal insufficiency','Low dose plus fludrocortisone'
-Annane (Ger-Inf-05),2002,12186604,22,36,18,34, 'Septic shock with pressors without adrenal insufficiency','Low dose plus fludrocortisone'
-Tandam,2005,0,11,14,13,14, 'Septic shock with adrenal insufficiency','Low dose'
-Sprung (CORTICUS),2008,18184957,49,125,39,108, 'Septic shock with pressors with adrenal insufficiency','Low dose'
-Sprung (CORTICUS),2008,18184957,34,118,39,136, 'Septic shock with pressors without adrenal insufficiency','Low dose'
-Annane (APROCCHSS)*,2018,29490185,101,198,115,228, 'Septic shock with pressors with adrenal insufficiency','Low dose plus fludrocortisone'
-Annane (APROCCHSS)*,2018,29490185,61,184,67,170, 'Septic shock with pressors without adrenal insufficiency',Low dose plus fludrocortisone'
