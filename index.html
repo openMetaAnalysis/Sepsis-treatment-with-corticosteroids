@@ -1,179 +1,208 @@
 <!doctype html>
 <!-- **Scroll down to three locations that state
-**Edit references here**
+    **Edit references here**
 -->
 <html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
-<title>openMetaAnalysis</title>
-<link rel="stylesheet" href="stylesheets/styles.css">
-<link rel="stylesheet" href="stylesheets/pygment_trac.css">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>openMetaAnalysis</title>
+     <meta name="author" content="openMetaAnalysis Contributors">
+     
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
 <!-- Added these two js source files -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
 <script src="/openmetaanalysis.js"></script>
 <link rel="stylesheet" href="/openmetaanalysis.css">
-</head>
-<body>
-<div class="wrapper">
-<header>
-<h1 class="repo_name"></h1>
-<p>A living systematic review</p>
-<p class="view"><a href="" class="master">View the Project on GitHub</a></p>
-<!--
-<ul>
-<li><a href="zipball/master" class="master">Download <strong>ZIP File</strong></a></li>
-<li><a href="tarball/master" class="master">Download <strong>TAR Ball</strong></a></li>
-<li><a href="" class="master">View On <strong>GitHub</strong></a></li>
-</ul>
---></header>
-<section>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="repo_name"></h1>
+        <p class="view">Short URL: <a href="https://openmetaanalysis.github.io/template">openmetaanalysis.github.io/template</a></p>
+        <p class="view"><a href="" class="master-home">View the Project on GitHub (for authors)</a></p>
+
+        <!--<ul>
+          <li><a href="zipball/master" class="master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="tarball/master" class="master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="" class="master">View On <strong>GitHub</strong></a></li>
+        </ul>-->
+        
+       </header>
+      <section>
+
 <!-- **Edit here** -->
 <p><strong>Clinical summary:</strong> 
-The summary sensitivity and specificity are in the forest plot below. 
-The reported accuracy is not sufficient to confirm or exclude outcomes at the prevalence of outcomes studied as the positive predictive value is 88% and the negative predictive value is 10%.
-However, the quality of evidence is <GRADE>low</GRADE> for all outcomes due to imprecision and indirectness of results. 
-Regarding the detection of subsegmental emboli, the positive predictive value pooled from 6 studies is --% (embolism was confirmed in -- of -- patients)</p>
-<CRITERIA>We included prospective, cross-sectional diagnostic test assessment studies in which all patients received both index text (computed tomographic pulmonary angiography) and reference tests.</CRITERIA>
+This meta-analysis suggests that the clinical intervention <em>is effective</em>; 
+however, meta-regression indicates that the benefit inversely correlates with the mortality rate in the control group. While benefit also correlates with year of publication, only the the mortality rate in the control group is an independent predictor. 
+The moderate heterogeneity was explained by variations in the mortality rate in the control groups of the trials (see meta-regression below) and the <a href="#" class="hastip" id="heterogeneity">heterogeneity was 'unimportant'</a> after the rate of outcomes among controls was added to the meta-regression (residual I<sup>2</sup> = 0%). 
+Accordingly, the two most recent trials both had less than 20% mortality in the control group, and the intervention did not reduce mortality. Alternatively, 'Meta-regression dooes not find modulators on the effect of the intervention."</p>
+
+<p>Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.</p>
+   
+<p>The quality of evidence supporting benefit in trials with high mortality is <grade>pending</grade> due to all trials being unblinded and the benefit being in a small number of subjects studied and an unplanned subgroup analysis.
+<CRITERIA>We included randomized controlled trials of treating patients with septic shock with early-goal directed therapy.</CRITERIA> 
+Additional interpretations may be in the references in the 'Cited by' section below.</p>
 <!-- **to here** -->
 
-<p><strong>Methods overview:</strong> <span id="criteria_display">&nbsp;</span> Studies were abstacted into standardized tables of <script>document.write("<a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/gh-pages/tables/pico.xml'>PICO attributes</a> and <a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/gh-pages/tables/bias.xml'>risk of bias</a>")</script>, and <a href="data/" class="master-dir" title="data files">results</a>. This repository updates a previously published meta-analysis.(<a href="#Prior_systematic_reviews">1</a>) Newer studies included are listed in the <a href="#Studies">references</a>. Rationale for newer trials excluded may be listed at the end of the references.</p><p>See <a href="/methods.html">methods</a> for details.</p>
+<ul>
+<li><a href="reconciliation-tables/Reconciliation of conclusions.pdf" class="master-dir" title="Table in PDF format">Reconciliation of conclusions with prior meta-analyses</a> (<a href="reconciliation-tables/Source" class="master-dir">source files</a>)</li>
+<li>
+<script>
+document.write('<a href="https://github.com/openMetaAnalysis/' + repo_dir + '/blob/master/files/searching/Keep-up.md">Keep current with this topic</a>')
+</script>
+</li>
+</ul>
+<p>Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.</p>
+
+<p><strong>Methods overview:</strong> This repository is an <a href="https://openmetaanalysis.github.io/">openMetaAnalysis</a> that combines methods of scoping, rapid, and living systematic reviews. This analysis updates one or more previously published review(s)(<a href="#Prior_systematic_reviews">1</a>).</p>
+<p><span id="criteria_display">&nbsp;</span> Newer studies included are listed in the <a href="#Studies">references</a>. Rationale for newer trials excluded may be listed at the end of the references.</p>
+<ul>
+<script>
+document.write('<li><a href="https://github.com/openMetaAnalysis/' + repo_dir + '/blob/master/files/searching/evidence-search.md">Evidence search for this review</a> (under construction)</li>')
+</script>
+</ul>
+<p>A comparison of studies included in this review compared to prior reviews are in the table, <a href="reconciliation-tables/Reconciliation of studies.pdf" class="master-dir" title="Table in PDF format">reconciliation of studies included with prior meta-analyses</a>. Studies were abstacted into standardized tables of <script>document.write("<a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/master/files/study-details/table-pico.pdf'>PICO attributes</a> and <a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/master/files/study-details/table-bias.pdf'>risk of bias</a>")</script>, and <a href="data/" class="master-dir" title="data files">results</a>.</p>
+<ul>
+<li><a href="/methods.html">Methods for openMetaAnalysis</a></li>
+</ul>
 
 <p><strong>Results:</strong> Details of the studies included are in the:</p>
 <ul>
-<li><a href="table-dta-pico.html">PICO table</a></li>
-<li><a href="table-dta-bias.html">Risk of bias table</a></li>
-<li><a href="forest-plots/" class="master-dir">Forest plot(s)</a></li>
+<li><a href="PRISMA/" class="master-dir">PRISMA documentation</a> (under construction)</li>
+<li><a href="reconciliation-tables/Reconciliation of studies.pdf" class="master-dir" title="Table in PDF format">Reconciliation of studies included with prior meta-analyses</a> (<a href="study-details/Source" class="master-dir">source files</a>) (under construction)</li>
+<li><a href="study-details/table-pico.pdf" class="master-dir" title="PICO table in PDF format">PICO table (study descriptions)</a> (<a href="study-details/Source" class="master-dir">source files</a>)  (under construction)</li>
+<li><a href="study-details/table-bias.pdf" class="master-dir" title="Risk of bias table in PDF format">Risk of bias table</a> (<a href="study-details/Source" class="master-dir">source data</a>) (under construction)</li>
+<!-- alternative formats
+<li><a href="table-bias.html">PICO table</a></li>
+<li><a href="study-details/table-bias.pdf" class="gh-pages-files" title="Table in PDF format">Risk of bias table</a> (<a href="study-details/" class="gh-pages-dir">source files</a>)</li>
+-->
+<li><a href="forest-plots/" class="master-dir">Forest plot(s)</a> (<a href="data/" class="master-dir">source data</a>) (under construction)</li>
 </ul>
-<p>The forest plot for the primary outcome is below. <a href="forest-plots/" class="master-dir">Forest plots for seconary analyses</a> may be available.
-<!-- **Paste in svg file sarting here** -->
-<?xml version="1.0" encoding="UTF-8"?><svg x="0" y="0" width="700px" height="450px" viewBox="0 0 700 450" style="font-family:Arial, Helvetica, sans-serif" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><!-- Header of plot--><text x="10" y="15" fill="black" style="font-weight:bold">Study</text><text x="250" y="15" fill="black" style="font-weight:bold">Sensitivity (%)</text><text x="500" y="15" fill="black" style="font-weight:bold">Specificity (%)</text><!-- Start of studies--><a xlink:href="http://pubmed.gov/1410342" xlink:title="Study size is 42. Prevalence of the outcome is 43%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="35" fill="rgba(0,0,255,1)">Remy-Jardin, 1992</text></a><text x="200" y="35" fill="black" style="font-weight:normal">97 (79 - 100)</text><circle cx="397.368421052632" cy="30" r="3" stroke-width="0" style="fill:black;"></circle><line x1="379.079425978837" y1="30" x2="399.724647531967" y2="30" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="35" fill="black" style="font-weight:normal">94 (78 - 99)</text><circle cx="644" cy="30" r="3" stroke-width="0" style="fill:black;"></circle><line x1="627.676969109247" y1="30" x2="648.602112808117" y2="30" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/8017318" xlink:title="Study size is 10. Prevalence of the outcome is 70%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="55" fill="rgba(0,0,255,1)">Blum, 1994</text></a><text x="200" y="55" fill="black" style="font-weight:normal">94 (60 - 99)</text><circle cx="393.75" cy="50" r="3" stroke-width="0" style="fill:black;"></circle><line x1="359.770329765935" y1="50" x2="399.344008306725" y2="50" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="55" fill="black" style="font-weight:normal">88 (40 - 99)</text><circle cx="637.5" cy="50" r="3" stroke-width="0" style="fill:black;"></circle><line x1="589.577303448278" y1="50" x2="648.680883817627" y2="50" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/7754875" xlink:title="Study size is 20. Prevalence of the outcome is 55%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="75" fill="rgba(0,0,255,1)">Goodman, 1995</text></a><text x="200" y="75" fill="black" style="font-weight:normal">62 (35 - 84)</text><circle cx="362.5" cy="70" r="3" stroke-width="0" style="fill:black;"></circle><line x1="335.436901346625" y1="70" x2="383.500748486994" y2="70" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="75" fill="black" style="font-weight:normal">85 (54 - 96)</text><circle cx="635" cy="70" r="3" stroke-width="0" style="fill:black;"></circle><line x1="604.115398384334" y1="70" x2="646.457305625263" y2="70" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/8756918" xlink:title="Study size is 75. Prevalence of the outcome is 57%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="95" fill="rgba(0,0,255,1)">Remy-Jardin, 1996</text></a><text x="200" y="95" fill="black" style="font-weight:normal">90 (77 - 96)</text><circle cx="389.772727272727" cy="90" r="3" stroke-width="0" style="fill:black;"></circle><line x1="377.418325840303" y1="90" x2="395.739978406181" y2="90" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="95" fill="black" style="font-weight:normal">98 (87 - 100)</text><circle cx="648.484848484848" cy="90" r="3" stroke-width="0" style="fill:black;"></circle><line x1="637.017052599183" y1="90" x2="649.841614305791" y2="90" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/9769837" xlink:title="Study size is 47. Prevalence of the outcome is 32%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="115" fill="rgba(0,0,255,1)">Drucker, 1998</text></a><text x="200" y="115" fill="black" style="font-weight:normal">53 (31 - 74)</text><circle cx="353.125" cy="110" r="3" stroke-width="0" style="fill:black;"></circle><line x1="330.554217295898" y1="110" x2="374.485734700762" y2="110" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="115" fill="black" style="font-weight:normal">95 (82 - 99)</text><circle cx="645.454545454545" cy="110" r="3" stroke-width="0" style="fill:black;"></circle><line x1="632.486731478938" y1="110" x2="648.943268744476" y2="110" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/9646814" xlink:title="Study size is 24. Prevalence of the outcome is 25%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="135" fill="rgba(0,0,255,1)">Garg, 1998</text></a><text x="200" y="135" fill="black" style="font-weight:normal">64 (30 - 88)</text><circle cx="364.285714285714" cy="130" r="3" stroke-width="0" style="fill:black;"></circle><line x1="330.256002981393" y1="130" x2="388.191698873845" y2="130" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="135" fill="black" style="font-weight:normal">97 (79 - 100)</text><circle cx="647.368421052632" cy="130" r="3" stroke-width="0" style="fill:black;"></circle><line x1="629.079425978837" y1="130" x2="649.724647531967" y2="130" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/11058644" xlink:title="Study size is 151. Prevalence of the outcome is 39%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="155" fill="rgba(0,0,255,1)">Qanadli, 2000</text></a><text x="200" y="155" fill="black" style="font-weight:normal">94 (85 - 98)</text><circle cx="394.166666666667" cy="150" r="3" stroke-width="0" style="fill:black;"></circle><line x1="385.175395294163" y1="150" x2="397.842757766619" y2="150" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="155" fill="black" style="font-weight:normal">96 (90 - 99)</text><circle cx="646.236559139785" cy="150" r="3" stroke-width="0" style="fill:black;"></circle><line x1="640.19168870836" y1="150" x2="648.61325191034" y2="150" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/12626206" xlink:title="Study size is 90. Prevalence of the outcome is 37%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="175" fill="rgba(0,0,255,1)">Nilsson, 2002</text></a><text x="200" y="175" fill="black" style="font-weight:normal">90 (75 - 96)</text><circle cx="389.705882352941" cy="170" r="3" stroke-width="0" style="fill:black;"></circle><line x1="375.187562902549" y1="170" x2="396.162751914687" y2="170" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="175" fill="black" style="font-weight:normal">96 (87 - 99)</text><circle cx="645.689655172414" cy="170" r="3" stroke-width="0" style="fill:black;"></circle><line x1="637.048417439253" y1="170" x2="648.654606083641" y2="170" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/12664123" xlink:title="Study size is 61. Prevalence of the outcome is 38%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="195" fill="rgba(0,0,255,1)">Ruiz, 2003</text></a><text x="200" y="195" fill="black" style="font-weight:normal">90 (72 - 97)</text><circle cx="389.583333333333" cy="190" r="3" stroke-width="0" style="fill:black;"></circle><line x1="371.528822689569" y1="190" x2="396.714727773661" y2="190" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="195" fill="black" style="font-weight:normal">81 (66 - 90)</text><circle cx="630.769230769231" cy="190" r="3" stroke-width="0" style="fill:black;"></circle><line x1="615.890539036429" y1="190" x2="640.129962273874" y2="190" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/15634261" xlink:title="Study size is 245. Prevalence of the outcome is 56%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="215" fill="rgba(0,0,255,1)">Van Strijen, 2005</text></a><text x="200" y="215" fill="black" style="font-weight:normal">65 (56 - 72)</text><circle cx="364.598540145985" cy="210" r="3" stroke-width="0" style="fill:black;"></circle><line x1="356.292557977635" y1="210" x2="372.108170284435" y2="210" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="215" fill="black" style="font-weight:normal">84 (76 - 90)</text><circle cx="634.090909090909" cy="210" r="3" stroke-width="0" style="fill:black;"></circle><line x1="626.123928064512" y1="210" x2="639.757167256067" y2="210" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><a xlink:href="http://pubmed.gov/16738268" xlink:title="Study size is 773. Prevalence of the outcome is 23%. Click citation to open abstract at PubMed in a new window." target="_blank"><text x="10" y="235" fill="rgba(0,0,255,1)">PIOPED II, 2006</text></a><text x="200" y="235" fill="black" style="font-weight:normal">83 (77 - 87)</text><circle cx="382.692307692308" cy="230" r="3" stroke-width="0" style="fill:black;"></circle><line x1="376.535594780441" y1="230" x2="387.497479838724" y2="230" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><text x="450" y="235" fill="black" style="font-weight:normal">96 (94 - 97)</text><circle cx="645.699831365936" cy="230" r="3" stroke-width="0" style="fill:black;"></circle><line x1="643.751841638482" y1="230" x2="647.059544197707" y2="230" style="stroke:rgba(0,0,0,1);stroke-width:2" ></line><!-- Bottom of plot--><!-- Axes --><g style="stroke:rgba(0,0,0,0.2);stroke-width:2"><line x1="300" y1="245" x2="400" y2="245" ></line><line x1="550" y1="245" x2="650" y2="245" ></line></g><!-- Ticks --><g stroke="rgba(0,0,0,0.2)" stroke-width="1" fill="rgba(0,0,0,0.2)"><g transform="translate(400, 245) rotate(180)"><path d="M 0,0 L 0,5 M 50,0 L 50,5 M 100,0 L 100,5" ></path></g><g transform="translate(650, 245) rotate(180)"><path d="M 0,0 L 0,5 M 50,0 L 50,5 M 100,0 L 100,5" ></path></g></g><!-- Vertical summary lines --><g style="stroke:rgba(0,0,0,0.2);stroke-width:2" ><line x1="380.451127637044" y1="25" x2="380.451127637044" y2="245" ></line><line x1="644.333996035978" y1="25" x2="644.333996035978" y2="245"></line></g><!-- Summary text --><g fill="black" style="color:black;opacity:1"><text x="10" y="260" style="font-weight:bold">Summary</text><text x="200" y="260" fill="black" style="font-weight:bold">80 (77 - 84)</text><text x="370.451127637044" y="260" fill="black" style="font-weight:bold">80</text><text x="450" y="260" fill="black" style="font-weight:bold">94 (93 - 96)</text><text x="634.333996035978" y="260" fill="black" style="font-weight:bold">94</text><text x="10" y="280">Likelihood ratios: positive 14.2; negative 0.2</text><text x="10" y="295">(hierarchical bivariate model)</text><text x="10" y="315" style="font-weight:bold">Area under the ROC curve: 0.932</text><text x="10" y="335" style="font-weight:bold">Predictive values:</text><text x="10" y="355">At the prevalences studied (pooled 35%, median 39, range 23 - 70, odds 0.53):</text><text x="20" y="370">Positive 88.2%; negative 9.9%</text><a xlink:href="http://sumsearch.org/calc/calc.aspx?calc_dx_SnSp.aspx?prevalence=35&sensitivity=80&specificity=94" xlink:title="Adjust prevalence and recalculate predictive values" target="_blank"><text x="20" y="385" fill="rgba(0,0,255,1)" style="font-weight:normal;text-decoration:underline;">Click here to recalculate predictive values at other prevalences</text></a><!-- About the studies --><text x="10" y="405" style="font-weight:bold">About the studies:</text><text x="10" y="425">1538 persons (median 61, range 10 - 773) in 11 studies.</text><text x="10" y="440">532 persons with the outcome (median 23, range 6 - 181).</text></g> Sorry, your browser does not support inline SVG for dynamic graphics.</svg>
-<!-- **Paste in svg file stopping here** -->
-</p>
 
-<!-- **Paste in Summary of Findings Table starting  here** -->
+<p>Below is the forest plot for the primary outcome. Additional <a href="forest-plots/" class="master-dir" title="forest plots">Forest plots</a> may be available.
+<a href="forest-plots/Outcome-Primary.png" class="master-file"><img src="forest-plots/Outcome-Primary.png" alt="Image of forest plot of primary outcome" title="Principle results" style="max-width:100%;" class="master" id="forest"></a></p>
+
+<div id="network" style="display:none">
+<div>Below is the network meta-analysis for the primary outcome. Additional <a href="network/" class="master-dir" title="network meta-analysis plots">network plots</a> may be available.</div>
+<a href="network/Outcome-Primary.png" class="master-file"><img src="network/Outcome-Primary.png" alt="Image of network meta-analysis of primary outcome" title="Principle results" style="max-width:100%;" class="master" id="network_figure"></a>
+</div>
+         
+<div id="metaregression" style="display:none">
+<div>Below is the metaregression for the primary outcome. Additional <a href="metaregression/" class="master-dir" title="metaregressions plots">metaregression plots</a> may be available.</div>
+<a href="metaregression/Outcome-Primary.png" class="master-file"><img src="metaregression/Outcome-Primary.png" alt="Image of meta-regression of primary outcome" title="Principle results" style="max-width:100%;" class="master" id="metaregression_figure"></a>
+</div>
+
+<div id="network" style="display:none">
+<div>Below is the network meta-analysis for the primary outcome. Additional <a href="network/" class="master-dir" title="network meta-analyses plots">network plots</a> may be available.</div>
+<a href="network/Outcome-Primary.png" class="master-file"><img src="network/Outcome-Primary.png" alt="Image of network meta-analysis of primary outcome" title="Principle results" style="max-width:100%;" class="master" id="network_figure"></a>
+</div>
+
 <p>The <SoF>Summary of Findings Table (SoF)</SoF> from the GRADE Profile is below (<a href="GRADE-profiles/" class="master-dir" title="GRADE Profiles">source files</a>).
-</p>
-<table style="width:700px">
-<tr><td colspan="6"><span style="font-weight:bold">Summary of Findings Table</span>: 
-What is the diagnostic accuracy of the computed tomographic pulmonary angiography for diagnosing pulmonary embolism?</td></tr>
-<tr><td width="25%" colspan="2" style="font-weight:bold">Patients/population</td>
-<td colspan="4">
-Patients suspected of having pulmonary embolism.</td></tr>
-<tr><td width="25%" colspan="2" style="font-weight:bold">Prior testing</td>
-<td colspan="4"
->Clinical evaluation (unstructured)</td></tr>
-<tr><td width="25%" colspan="2" style="font-weight:bold">Index test</td>
-<td colspan="4">
-Computed tomographic pulmonary angiography with 1 to 16 rows of detectors.</td></tr>
-<tr><td width="25%" colspan="2" style="font-weight:bold">Importance</td>
-<td colspan="4">
-High</td></tr>
-<tr><td width="25%" colspan="2" style="font-weight:bold">
-Reference standard</td>
-<td colspan="4">Pulmonary angiogram performed at various intervals from the index tests</td></tr>
-<tr><td width="25%" colspan="2" style="font-weight:bold">Studies</td>
-<td colspan="4">
-Cross-sectional studies including an equally suspected patient sample (case-control studies) were excluded.</td></tr>
-<tr style="font-weight:bold"><td>Test / Subgroup</td><td>Summary accuracy (95% CI)</td><td>Number of participants and studies</td><td>Prevalence</td><td>Implications</td><td>Quality and Comments</td></tr>
-<tr>
-<td>
-<!-- Definition of normal/abnormal -->
-Cut-off abnormal vs normal</td>
-<td>
-<!-- Summary accuracy -->
-<p>Sensitivity: 80%</p><p>Specificity: 94%</p></td>
-<td>
-<!-- Participants and studies -->
-1538 persons<br>Median 61<br>Range 10 - 773<br>11 studies</td>
-<td>
-<!-- prevalence -->
-Pooled 35%<br>Median 39 Range 23 - 70<br>Odds 0.53</td>
-<td>
-<!-- Implications -->
-The reported accuracy is not sufficient to confirm or exclude outcomes at the prevalence of outcomes studied.<br>
-Pending</td>
-<td>
-<!-- Quality and Comments -->
-Results may be affected by<br>
-· The <a href="http://www.wikidoc.org/index.php/Publication_bias">small study effect and publication bias</a>.<br>
-· Indirectness. The evidence is from older scanners as results not available for scanners with more rows of detectors.<br>
-Pending</td></tr>
-</table>
-<!-- **Paste in Summary of Findings Table stopping here** -->
+<a href="GRADE-profiles/Summary-of-findings-table.png" class="master-file"><img src="GRADE-profiles/Summary-of-findings-table.png" alt="Image of GRADE Summary of findings table" title="GRADEprofile" style="max-width:100%;" class="master" id="grade"></a></p>
 
 <div id="references">
-<h2>References:</h2>
+<h2>References:</h2><!-- Start of references. PMIDs and PCMIDs are make into links if not already in the format of a link-->
+
 <a id="Prior_systematic_reviews"><h3>Systematic review(s)</h3></a>
+
 <h4>Most recent review(s) at time of last revision of this repository</h4>
-<ol class="task-list">
-<!-- **Edit systematic reviews here** -->
-<li>Roy PM, Colombet I, Durieux P, Chatellier G, Sors H, Meyer G. Systematic review and meta-analysis of strategies for the diagnosis of suspected pulmonary embolism. BMJ. 2005 Jul 30;331(7511):259. PMID: <a href="http://pubmed.gov/16052017">16052017</a>; PMCID: <a href="http://pubmedcentral.gov/PMC1181264">PMC1181264</a></li>
-<li>Hayashino Y, Goto M, Noguchi Y, Fukui T. Ventilation-perfusion scanning and helical CT in suspected pulmonary embolism: meta-analysis of diagnostic performance. Radiology. 2005 Mar;234(3):740-8. PMID: 15734930.</li>
-<li>Hogg K, Brown G, Dunning J, Wright J, Carley S, Foex B, Mackway-Jones K. Diagnosis of pulmonary embolism with CT pulmonary angiography: a systematic review. Emerg Med J. 2006 Mar;23(3):172-8. Review. PMID: 16498151; PMCID: PMC2464412</li>
+
+<ol>
+<li>
+<!-- **Paste in references here.  Use PubMed summary (text format). Leave one blank line between each reference ** -->
+<li>Gu WJ, Wang F, Bakker J, Tang L, Liu JC. The effect of goal-directed therapy on mortality in patients with sepsis - earlier is better: a meta-analysis of randomized controlled trials. Crit Care. 2014 Oct 20;18(5):570. PMID: 25327977; PMCID: PMC4232636.</li>
+<li>Wira CR, Dodge K, Sather J, Dziura J. Meta-analysis of Protocolized Goal-Directed Hemodynamic Optimization for the Management of Severe Sepsis and Septic Shock in the Emergency Department. West J Emerg Med. 2014 Feb;15(1):51-9.  doi: <a href="http://dx.doi.org/10.5811/westjem.2013.7.6828">10.5811/westjem.2013.7.6828</a>.  PMID: 24696750; PMCID: PMC3952890.</li>
 <!-- **to here** -->
+</li>
 </ol>
 
-<a id="Studies"><h3>Study/studies</h3></a>
-<h4>New Study/studies <em>not</em> included in the most recent review above</h4>
+<a id="Studies" name="studies">
+<h3>Studies</h3></a>
+
+<h4>New Studies <em>not</em> included in the most recent review above</h4>
+
 <ol>
-<!-- **Edit new references here** -->
-<li>Stein PD, Fowler SE, Goodman LR, Gottschalk A, Hales CA, Hull RD, Leeper KV Jr, Popovich J Jr, Quinn DA, Sos TA, Sostman HD, Tapson VF, Wakefield TW, Weg JG, Woodard PK; PIOPED II Investigators. Multidetector computed tomography for acute pulmonary embolism. N Engl J Med. 2006 Jun 1;354(22):2317-27. PMID: 16738268.</li>
-<li>Van Strijen MJ, De Monye W, Kieft GJ, Pattynama PM, Prins MH, Huisman MV. Accuracy of single-detector spiral CT in the diagnosis of pulmonary embolism: a prospective multicenter cohort study of consecutive patients with abnormal perfusion scintigraphy. J Thromb Haemost. 2005 Jan;3(1):17-25. Erratum in: J Thromb Haemost. 2005 Mar;3(3):622. PMID: 15634261.</li>
+<li>
+<!-- **Paste in references here.  Use PubMed summary (text format). Leave one blank line between each reference ** -->
+Pending
 <!-- **to here** -->
+</li>
 </ol>
-<h4>Study/studies undergoing review</h4>
-<div>The following were included by Hogg, but not Hayashino.</div>
+
+         
+<h4>Studies <em>included</em> in the most recent review above</h4>
+
 <ol>
-<!-- **Edit references here** -->
-<li>Winer-Muram HT, Rydberg J, Johnson MS, Tarver RD, Williams MD, Shah H, Namyslowski J, Conces D, Jennings SG, Ying J, Trerotola SO, Kopecky KK. Suspected acute pulmonary embolism: evaluation with multi-detector row CT versus digital subtraction pulmonary arteriography. Radiology. 2004 Dec;233(3):806-15. PMID: 15564410.</li>
-<li>Stone E, Roach P, Bernard E, Briggs G, Havryk A, Faulder K, Dennis C. Use of computed tomography pulmonary angiography in the diagnosis of pulmonary embolismin patients with an intermediate probability ventilation/perfusion scan.  Intern Med J. 2003 Mar;33(3):74-8. PMID: 12603578.</li>
-<li>Christiansen F. Diagnostic imaging of acute pulmonary embolism. Acta Radiol Suppl. 1997;410:1-33. PMID: 9105183.</li>
-<li>Sostman HD, Layish DT, Tapson VF, Spritzer CE, DeLong DM, Trotter P, MacFall JR, Patz EF Jr, Goodman PC, Woodard PK, Foo TK, Farber JL. Prospective comparison of helical CT and MR imaging in clinically suspected acute pulmonary embolism. J  Magn Reson Imaging. 1996 Mar-Apr;6(2):275-81. PMID: 9132089.</li>
-<li>Steiner P, Phillips F, Wesner D, Lund GK, Kreymann G, Nicolas V, Crone-Münzebrock W. [Primary diagnosis and follow-up in acute pulmonary embolism: comparison of digital subtraction angiography and spiral CT]. Rofo. 1994 Oct;161(4):285-91. German. PMID: 7948973.</li>
-</ol>
-<div>Included by neither</div>
-<ol>
-<li>Velmahos GC, Vassiliu P, Wilcox A, Hanks SE, Salim A, Harrel D, Palmer S, Demetriades D. Spiral computed tomography for the diagnosis of pulmonary embolism in critically ill surgical patients: a comparison with pulmonary angiography. Arch Surg. 2001 May;136(5):505-11. PMID: 11343539.</li>
-</ol>
+<li>
+<!-- **Paste in references here.  Use PubMed summary (text format). Leave one blank line between each reference ** -->
+Pending
 <!-- **to here** -->
-<h4>Study/studies excluded - selected list of important studies</h4>
-<ol>
-<!-- **Edit references here** -->
-<li>Unclear citeria for received reference standard: Koyuncu A, Bozlar U, Ustünsöz B, Ors F, Taşar M, Deniz O, Balkan A, Somuncu I. [Diagnosis of venous thromboembolism by single-detector row and multi-detector row CT angiography]. Tuberk Toraks. 2007;55(1):24-33. Turkish. PMID: 17401791.</li>
-<li>Unclear citeria for received reference standard:  Emet M, Ozucelik DN, Sahin M, Oran M, Sivri B. Computed tomography pulmonary angiography in the diagnosis of acute pulmonary embolism in the emergency department. Adv Ther. 2007 Nov-Dec;24(6):1173-80. PMID: 18165199</li>
-<!-- **to here** -->
+</li>
 </ol>
+
+<h4>Studies undergoing review</h4>
+<ol>
+<li>
+<!-- **Paste in references here.  Use PubMed summary (text format). Leave one blank line between each reference ** -->
+Pending
+<!-- **to here** -->
+</li>
+</ol>
+
+<a id="excluded" name="excluded">
+<h4>Studies excluded - selected list of important studies</h4></a>
+<ol>
+<li>
+<!-- **Paste in references here.  Use PubMed summary (text format). Leave one blank line between each reference ** -->
+Andrews B, Muchemwa L, Kelly P, Lakhi S, Heimburger DC, Bernard GR. Simplified severe sepsis protocol: a randomized controlled trial of modified early goal-directed therapy in Zambia. Crit Care Med. 2014 Nov;42(11):2315-24. doi: 10.1097/CCM.0000000000000541. PMID: 25072757; PMCID: PMC4199893. <i>Trial was terminated early.</i>
+<!-- **to here** -->
+</li>
+</ol>
+
+<h4>Funding for this review</h4>
+<!-- **Edit excluded studies here** -->
+<ol>
+<li>None.</li>
+</ol>
+
+
 <h4>Cited by</h4>
+
 <p>This repository is cited by:</p>
+
 <ol>
 <!-- Edit cited by references below this line -->
-<li>WikiDoc contributors. Page is pending. WikiDoc. Nov 9, 2014. Available at: <a href="http://www.wikidoc.org/index.php/Bronchiolitis_medical_therapy#Hypertonic_saline">http://www.wikidoc.org/index.php/Bronchiolitis_medical_therapy#Hypertonic_saline</a>. Accessed November 9, 2014. </li>
+<li>WikiDoc contributors. Pending. WikiDoc. Fef 24, 2015. Available at: <a href="http://www.wikidoc.org/index.php/pending">http://www.wikidoc.org/index.php/Pending</a>. Accessed February 24, 2015. </li>
 </ol>
-<div><!-- end of citations -->
+</div><!-- End of references. PMIDs and PCMIDs are make into links-->
 
 </section>
-<footer>
-<p>This project is maintained by <a href="http://openmetaanalysis.github.io/">openMetaAnalysis</a></p>
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      <footer>
+        <p>This project is maintained by <a href="http://openmetaanalysis.github.io/">openMetaAnalysis</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+
 <div id="business"></div>
-</footer>
+      </footer>
+
 </div>
-<script src="javascripts/scale.fix.js"></script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-56740469-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-56740469-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
 <div id="tip" style="display:none"></div>
 </body>
 </html>
