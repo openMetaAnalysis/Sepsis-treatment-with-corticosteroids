@@ -1,0 +1,30 @@
+Study,            Year,PMID,experimental_events,experimental_total,control_events,control_total, cofactor.patients,cofactor.dose,cofactor.cotreatment,cofactor.comorbid
+'Keh (HYPRESS)',2016,27695824,15,171,14,170, 'Severe sepsis','Low dose > 7 days',,
+Rinaldi,2006,16850006,6,26,7,26, 'Severe sepsis','Low dose',,
+Tongyoo,2016,27741949,22,98,27,99, Mixed,'Low dose',,
+Luce,1988,3202402,22,38,20,37,Mixed,'High dose',,
+Bone,1987,3306374,65,191,48,190,Mixed,'High dose',,
+Schumer,1976,786190,9,86,33,86, 'Septic shock','High dose',,
+Lv,2017,28615145,23,58,19,60, 'Septic shock starting pressors','Low dose',,
+Sprung,1984,6384785,33,43,11,16, 'Septic shock with pressors','High dose',,
+Bollaert,1998,9559600,7,22,12,19, 'Septic shock with pressors','Low dose > 7 days',,
+Briegel,1999,10321661,3,20,4,20, 'Septic shock with pressors','Low dose > 7 days',,
+Chawla,1999,0,6,23,10,21, 'Septic shock with pressors','Low dose',,
+'Annane (Ger-Inf-05)',2002,12186604,82,150,91,149, 'Septic shock with pressors',Low dose',Fludrocortisone,
+Oppert,2005,16276166,10,23,11,25, 'Septic shock with pressors','Low dose',,
+Tandan,2005,0,11,14,13,14, 'Septic shock','Low dose',,'Adrenal insufficiency'
+Cicarelli,2007,17992396,7,14,12,15, 'Septic shock without pressors','Low dose',,
+'Sprung (CORTICUS)',2008,18184957,86,251,78,248, 'Septic shock with pressors','Low dose > 7 days',,
+Hu,2009,0,4,38,6,39, 'Septic shock with pressors','Low dose',,
+Arabi,2010,21059778,33,39,26,36, 'Septic shock with pressors','Low dose > 7 days',,Cirrhosis
+Gordon,2014,24557425,7,31,7,30, 'Septic shock with pressors','Low dose',,
+Tongyoo,2016,27741949,22,98,27,99,ARDS,'Low dose',,ARDS
+Meduri,2007,17426195,10,42,8,19,ARDS,'Low dose',,ARDS
+Liu,2012,0,3,12,6,14,ARDS,,,ARDS
+Rezk,2013,0,0,18,3,9,ARDS,,,ARDS
+Snijders,2010,0,6,104,6,109,Pneumonia,,,'Community-acquired pneumonia'
+Meijvis,2011,0,9,151,11,153,Pneumonia,,,'Community-acquired pneumonia'
+Sabry,2011,0,2,40,6,40,Pneumonia,,,'Community-acquired pneumonia'
+Torres,2015,0,6,59,9,61,Pneumonia,,,'Community-acquired pneumonia'
+Venkatesh (ADRENAL)',2018,29347874,410,1841,448,1840, 'Septic shock with pressors','Low dose',,
+'Annane (APROCCHSS)*',2018,29490185,207,614,244,627, 'Septic shock with pressors',Low dose',Fludrocortisone,

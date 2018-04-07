@@ -1,0 +1,3 @@
+Study,            Year,PMID,experimental_events,experimental_total,control_events,control_total, cofactor.patients,cofactor.dose,cofactor.cotreatment,cofactor.comorbid
+Venkatesh  (ADRENAL),2018,29347874,511,1832,526,1826, 'Septic shock with pressors','Low dose',,Not ITT
+Annane (APROCCHSS)*,2018,29490185,264,614,308,627, 'Septic shock with pressors',Low dose',Fludrocortisone,
