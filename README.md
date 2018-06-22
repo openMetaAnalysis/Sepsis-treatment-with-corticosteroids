@@ -60,7 +60,7 @@ References:
 5. Venkatesh B, Finfer S, Cohen J, Rajbhandari D, Arabi Y, Bellomo R, Billot L, Correa M, Glass P, Harward M, Joyce C, Li Q, McArthur C, Perner A, Rhodes A, Thompson K, Webb S, Myburgh J; ADRENAL Trial Investigators and the Australian–New Zealand Intensive Care Society Clinical Trials Group. Adjunctive Glucocorticoid Therapy in Patients with Septic Shock. N Engl J Med. 2018 Mar 1;378(9):797-808. doi: 10.1056/NEJMoa1705835. Epub 2018 Jan 19. PMID: [29347874](http://pubmed.gov/29347874)
 
 #### New study(s) undergoing review
-None
+1. Xu R, Wang Q, Huang Y, Wu L, Liu Q, Hu W, Zhou C, Du Q. Do low-dose corticosteroids improve survival or shock reversal from septic shock in adults? Meta-analysis with trial sequential analysis. J Int Med Res. 2018 Jan 1:300060518774985. doi: 10.1177/0300060518774985. PMID: [29911468](http://pubmed.gov/29911468).
 
 #### New study(s) *excluded* 
 1. Chen Z, Yang C, He H, He Z. The impacts of low-dose corticosteroids infusion given in different manners on refractory septic shock patients. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2015 Jun;27(6):443-7. doi: [10.3760/cma.j.issn.2095-4352.2015.06.006](http://dx.doi.org/10.3760/cma.j.issn.2095-4352.2015.06.006). Chinese. PMID: [26049181](http://pubmed.gov/26049181). *Compared modes of steroid therapies*
@@ -70,7 +70,10 @@ None
 5. Mirea L, Ungureanu R, Pavelescu D, Grintescu I, Dumitrache C, Mirea D, et al. Impact of corticosteroid administration in septic shock on glycemic variability. Critical Care. 2014 Mar 17;18(1):P445. https://doi.org/10.1186/cc13635 *Mortality data not available in this poster*
 6. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 mg/day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2017 Nov 15. doi: [10.1097/SHK.0000000000001061](http://dx.doi.org/10.1097/SHK.0000000000001061). PMID: [29176402](http://pubmed.gov/29176402). *Compared hydrocortisone 200 mg/day vs 100 mg/day*
 
-
+#### This review has been cited by:
+1. Duran BA, Badgett RG, Simpson SQ. Hydrocortisone did not reduce mortality at 90 days in patients with septic shock. Ann Intern Med. 2018 Jun 19;168(12):JC69. doi: 10.7326/ACPJC-2018-168-12-069. PMID: [29913494](http://pubmed.gov/29913494).
+2. Duran BA, Badgett RG, Simpson SQ. Hydrocortisone plus fludrocortisone reduced mortality at 90 days in patients with septic shock. Ann Intern Med. 2018 Jun 19;168(12):JC68. doi: 10.7326/ACPJC-2018-168-12-068. PMID: [29913493](http://pubmed.gov/29913493).
+3. openMetaAnalysis Contributors. Septic shock treatment with corticosteroids. openMetaAnalysis. Version December 14, 2014. Available at: https://www.wikidoc.org/index.php/Sepsis_medical_therapy#Steroids. Accessed June 22, 2018.
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [License](files/LICENSE.md) - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
