@@ -61,6 +61,7 @@ References:
 
 #### New study(s) undergoing review
 1. Xu R, Wang Q, Huang Y, Wu L, Liu Q, Hu W, Zhou C, Du Q. Do low-dose corticosteroids improve survival or shock reversal from septic shock in adults? Meta-analysis with trial sequential analysis. J Int Med Res. 2018 Jan 1:300060518774985. doi: 10.1177/0300060518774985. PMID: [29911468](http://pubmed.gov/29911468).
+2. Mentzelopoulos SD, Koliantzaki I, Karvouniaris M, Vrettou C, Mongardon N, Karlis G, et al. Publisher Correction: Exposure to Stress-Dose Steroids and Lethal Septic Shock After In-Hospital Cardiac Arrest: Individual Patient Data Reanalysis of Two Prior Randomized Clinical Trials that Evaluated the Vasopressin-Steroids-Epinephrine Combination Versus Epinephrine Alone. Cardiovasc Drugs Ther. 2018 Sep 19. doi: 10.1007/s10557-018-6828-4. PMID:  [30232658](http://pubmed.gov/30232658)
 
 #### New study(s) *excluded* 
 1. Chen Z, Yang C, He H, He Z. The impacts of low-dose corticosteroids infusion given in different manners on refractory septic shock patients. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2015 Jun;27(6):443-7. doi: [10.3760/cma.j.issn.2095-4352.2015.06.006](http://dx.doi.org/10.3760/cma.j.issn.2095-4352.2015.06.006). Chinese. PMID: [26049181](http://pubmed.gov/26049181). *Compared modes of steroid therapies*
