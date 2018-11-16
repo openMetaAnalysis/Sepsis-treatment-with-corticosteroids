@@ -60,6 +60,8 @@ References:
 5. Venkatesh B, Finfer S, Cohen J, Rajbhandari D, Arabi Y, Bellomo R, Billot L, Correa M, Glass P, Harward M, Joyce C, Li Q, McArthur C, Perner A, Rhodes A, Thompson K, Webb S, Myburgh J; ADRENAL Trial Investigators and the Australian–New Zealand Intensive Care Society Clinical Trials Group. Adjunctive Glucocorticoid Therapy in Patients with Septic Shock. N Engl J Med. 2018 Mar 1;378(9):797-808. doi: 10.1056/NEJMoa1705835. Epub 2018 Jan 19. PMID: [29347874](http://pubmed.gov/29347874)
 
 #### New study(s) undergoing review
+1. Zhu L, Li X, Liu Y, Yang K, Jing G, Chen Y, Dou Z, Chen Q, Liu J. Effects of different administration methods of hydrocortisone on blood glucose in patients with septic shock: a Meta-analysis. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2018 
+Oct;30(10):915-919. doi: 10.3760/cma.j.issn.2095-4352.2018.010.001. Chinese. PMID: [30439307](http://pubmed.gov/30439307).
 1. Rochwerg B et al. Corticosteroids in Sepsis: An Updated Systematic Review and Meta-Analysis. Crit Care Med. 2018
 Sep;46(9):1411-1420. doi: 10.1097/CCM.0000000000003262. PMID: [29979221](http://pubmed.gov/29979221).
 2. Lyu QQ, Chen QH, Zheng RQ, Yu JQ, Gu XH. Effect of Low-Dose Hydrocortisone Therapy in Adult Patients With Septic Shock: A Meta-Analysis With Trial Sequential Analysis of Randomized Controlled Trials. J Intensive Care Med. 2018 Oct 1:885066618803062. doi: 10.1177/0885066618803062. PMID: [30270720](http://pubmed.gov/30270720). *Found: for mortality, 11 trials (most recent 2018):  28-day mortality OR = 0.90, 95% CI = 0.81-1.00*
