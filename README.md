@@ -74,7 +74,8 @@ Sep;46(9):1411-1420. doi: 10.1097/CCM.0000000000003262. PMID: [29979221](http://
 4. Mentzelopoulos SD, Koliantzaki I, Karvouniaris M, Vrettou C, Mongardon N, Karlis G, et al. Publisher Correction: Exposure to Stress-Dose Steroids and Lethal Septic Shock After In-Hospital Cardiac Arrest: Individual Patient Data Reanalysis of Two Prior Randomized Clinical Trials that Evaluated the Vasopressin-Steroids-Epinephrine Combination Versus Epinephrine Alone. Cardiovasc Drugs Ther. 2018 Sep 19. doi: 10.1007/s10557-018-6828-4. PMID: [30232658](http://pubmed.gov/30232658)
 
 Trials
-1. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 Mg/Day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2018 Sep;50(3):280-285. doi: 10.1097/SHK.0000000000001061.  PMID: [29176402](http://pubmed.gov/29176402).
+1. Tilouche N, Jaoued O, Ali HBS, Gharbi R, Fekih Hassen M, Elatrous S. Comparison Between Continuous and Intermittent Administration of Hydrocortisone During Septic Shock: A Randomized Controlled Clinical Trial. Shock. 2019 Nov;52(5):481-486. doi: 10.1097/SHK.0000000000001316. PMID: 30628950.
+2. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 Mg/Day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2018 Sep;50(3):280-285. doi: 10.1097/SHK.0000000000001061.  PMID: [29176402](http://pubmed.gov/29176402).
 5. Balakrishnan M, Gandhi H, Shah K, Pandya H, Patel R, Keshwani S, Yadav N. Hydrocortisone, Vitamin C and thiamine for the treatment of sepsis and septic shock following cardiac surgery. Indian J Anaesth. 2018 Dec;62(12):934-939. doi: 10.4103/ija.IJA_361_18.  PMID: [30636793](http://pubmed.gov/30636793).
 
 #### New study(s) *excluded* 
