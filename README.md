@@ -61,6 +61,7 @@ References:
 
 #### New study(s) undergoing review
 Meta-analyses
+1. Annane D, Bellissant E, Bollaert PE, Briegel J, Keh D, Kupfer Y, Pirracchio R, Rochwerg B. Corticosteroids for treating sepsis in children and adults. Cochrane Database Syst Rev. 2019 Dec 6;12:CD002243. doi: 10.1002/14651858.CD002243.pub4. PMID: 31808551.
 1. Aletreby WT, Alharthy AM, Madi AF, Soliman IR, Hamido HM, Ramadan OE, Alzayer W, Huwait BM, Alodat MA, Mumtaz SA, Mahmood NN, Al Kurdi MH, Farrag HA, Karakitsos D. Impact on Efficacy and Safety of Hydrocortisone in Sepsis and Septic Shock - A Systematic Literature Review and Meta-analysis. Arch Iran Med. 2019 Jul 1;22(7):394-402. PMID: [31679383](http://pubmed.gov/31679383).
 1. Siddiqui WJ, Iyer P, Aftab G, Zafrullah F, Zain MA, Jethwani K, Mazhar R, Abdulsalam U, Raza A, Hanif MO, Sharma E, Aggarwal S. Hydrocortisone Reduces 28-day Mortality in Septic Patients: A Systemic Review and Meta-analysis. Cureus. 2019 Jun 17;11(6):e4914. doi: 10.7759/cureus.4914. PMID: 31423390
 1. Xu R, Wang Q, Huang Y, Wu L, Liu Q, Hu W, Zhou C, Du Q. Do low-dose corticosteroids improve survival or shock reversal from septic shock in adults? Meta-analysis with trial sequential analysis. J Int Med Res. 2018 Jul;46(7):2513-2524. doi: 10.1177/0300060518774985. PMID: [29911468](http://pubmed.gov/29911468)
