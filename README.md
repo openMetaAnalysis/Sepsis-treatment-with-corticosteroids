@@ -17,7 +17,7 @@ The benefit among vasopressor-dependent patients does not depend on their adrena
 Two dose finding studies, that were excluded (links are below) due to not having a control group, suggest 100 mg per day of hydrcortisone may be more effective and need further examination.
 
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
+* [Reconciliation of conclusions and studies included with prior meta-analyses](files/reconciliation-tables/)
 * [Keep current with this topic](files/searching/Keep-up.md)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
