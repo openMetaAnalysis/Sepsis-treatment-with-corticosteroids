@@ -61,6 +61,7 @@ References:
 
 #### New study(s) undergoing review
 Meta-analyses
+1. Zhang S, Chang W, Xie J, Wu Z, Yang Y, Qiu H. The Efficacy, Safety, and Optimal Regimen of Corticosteroids in Sepsis: A Bayesian Network Meta-Analysis. Crit Care Explor. 2020 Apr 29;2(4):e0094. doi: 10.1097/CCE.0000000000000094. PMID: [32426736](http://pubmed.gov/32426736); PMCID: PMC7188436.
 1. Pourmand A, Whiteside T, Yamane D, Rashed A, Mazer-Amirshahi M. The controversial role of corticosteroids in septic shock. Am J Emerg Med. 2019 Jul;37(7):1353-1361. doi: 10.1016/j.ajem.2019.04.045. PMID: [31056383](http://pubmed.gov/31056383).
 1. Archontakis Barakakis P, Palaiodimos L, Fleitas Sosa D, Benes L, Gulani P, Fein D. Combination of low-dose glucocorticosteroids and mineralocorticoids as adjunct therapy for adult patients with septic shock: A systematic review and meta-analysis of randomized trials and observational studies. Avicenna J Med. 2019 Oct 3;9(4):134-142. doi: 10.4103/ajm.AJM_97_19. PMID: [31903388](http://pubmed.gov/31903388)
 1. Annane D, Bellissant E, Bollaert PE, Briegel J, Keh D, Kupfer Y, Pirracchio R, Rochwerg B. Corticosteroids for treating sepsis in children and adults. Cochrane Database Syst Rev. 2019 Dec 6;12:CD002243. doi: 10.1002/14651858.CD002243.pub4. PMID: [31808551](http://pubmed.gov/31808551)
