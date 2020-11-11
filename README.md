@@ -92,6 +92,9 @@ Trials
 3. Ngaosuwan K, Ounchokdee K, Chalermchai T. Clinical Outcomes of Minimized Hydrocortisone Dosage of 100 Mg/Day on Lower Occurrence of Hyperglycemia in Septic Shock Patients. Shock. 2018 Sep;50(3):280-285. doi: 10.1097/SHK.0000000000001061.  PMID: [29176402](http://pubmed.gov/29176402).
 4. Balakrishnan M, Gandhi H, Shah K, Pandya H, Patel R, Keshwani S, Yadav N. Hydrocortisone, Vitamin C and thiamine for the treatment of sepsis and septic shock following cardiac surgery. Indian J Anaesth. 2018 Dec;62(12):934-939. doi: 10.4103/ija.IJA_361_18.  PMID: [30636793](http://pubmed.gov/30636793).
 
+Other
+1. Wong HR, Hart KW, Lindsell CJ, Sweeney TE. External Corroboration That Corticosteroids May Be Harmful to Septic Shock Endotype A Patients. Crit Care Med. 2020 Nov 5. doi: 10.1097/CCM.0000000000004709. PMID: [33156120](http://pubmed.gov/33156120).
+
 #### New study(s) *excluded* 
 1. Chen Z, Yang C, He H, He Z. The impacts of low-dose corticosteroids infusion given in different manners on refractory septic shock patients. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2015 Jun;27(6):443-7. doi: [10.3760/cma.j.issn.2095-4352.2015.06.006](http://dx.doi.org/10.3760/cma.j.issn.2095-4352.2015.06.006). Chinese. PMID: [26049181](http://pubmed.gov/26049181). *Compared modes of steroid therapies*
 2. Huh JW, Choi HS, Lim CM, Koh Y, Oh YM, Shim TS, Lee SD, Kim WS, Kim DS, Hong SB. Low-dose hydrocortisone treatment for patients with septic shock: a pilot study comparing 3days with 7days. Respirology. 2011 Oct;16(7):1088-95. doi:[10.1111/j.1440-1843.2011.02018.x](http://dx.doi.org/10.1111/j.1440-1843.2011.02018.x). PMID: [21726354](http://pubmed.gov/21726354) *Compared hydrocortisone 100 mg/day for 3 days versus 7 days*
