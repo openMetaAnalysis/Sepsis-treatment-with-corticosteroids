@@ -62,6 +62,7 @@ References:
 
 #### New study(s) undergoing review
 Meta-analyses
+1. Son JY, Shin S, Choi YJ. New Evidence of Potential Benefits of Dexamethasone and Added on Therapy of Fludrocortisone on Clinical Outcomes of Corticosteroid in Sepsis Patients: A Systematic Review and Meta-Analysis. J Pers Med. 2021 Jun 11;11(6):544. doi: 10.3390/jpm11060544. PMID: [34208300](http://pubmed.gov/34208300).
 1. Pirracchio R, Hubbard A, Sprung CL, Chevret S, Annane D; Rapid Recognition of Corticosteroid Resistant or Sensitive Sepsis (RECORDS) Collaborators. Assessment of Machine Learning to Estimate the Individual Treatment Effect of Corticosteroids in Septic Shock. JAMA Netw Open. 2020 Dec 1;3(12):e2029050. doi: 10.1001/jamanetworkopen.2020.29050. PMID: [33301017](http://pubmed.gov/33301017);.
 1. Yamamoto R, Nahara I, Toyosaki M, Fukuda T, Masuda Y, Fujishima S. Hydrocortisone with fludrocortisone for septic shock: a systematic review and meta-analysis. Acute Med Surg. 2020 Sep 1;7(1):e563. doi: 10.1002/ams2.563. PMID: [32995018](http://pubmed.gov/32995018); PMCID: PMC7507448.
 1. Thompson KJ, Taylor CB, Venkatesh B, Cohen J, Hammond NE, Jan S, Li Q, Myburgh J, Rajbhandari D, Saxena M, Kumar A, Finfer SR; The ADRENAL Management Committee and Investigators and the ANZICS Clinical Trials Group. The cost-effectiveness of adjunctive corticosteroids for patients with septic shock. Crit Care Resusc. 2020 Sep;22(3):191-199. PMID: [32900325](http://pubmed.gov/32900325).
