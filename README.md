@@ -90,7 +90,7 @@ Sep;46(9):1411-1420. doi: 10.1097/CCM.0000000000003262. PMID: [29979221](http://
 4. Mentzelopoulos SD, Koliantzaki I, Karvouniaris M, Vrettou C, Mongardon N, Karlis G, et al. Publisher Correction: Exposure to Stress-Dose Steroids and Lethal Septic Shock After In-Hospital Cardiac Arrest: Individual Patient Data Reanalysis of Two Prior Randomized Clinical Trials that Evaluated the Vasopressin-Steroids-Epinephrine Combination Versus Epinephrine Alone. Cardiovasc Drugs Ther. 2018 Sep 19. doi: 10.1007/s10557-018-6828-4. PMID: [30232658](http://pubmed.gov/30232658)
 
 Trials
-None
+1. Birudaraju D, Hamal S, Tayek JA. Solumedrol Treatment for Severe Sepsis in Humans with a Blunted Adrenocorticotropic Hormone-Cortisol Response: A Prospective Randomized Double-Blind Placebo-Controlled Pilot Clinical Trial. J Intensive Care Med. 2021 Sep 13:8850666211038883. PMID: [34516312](http://pubmed.gov/34516312).
 
 Other
 1. Wong HR, Hart KW, Lindsell CJ, Sweeney TE. External Corroboration That Corticosteroids May Be Harmful to Septic Shock Endotype A Patients. Crit Care Med. 2020 Nov 5. doi: 10.1097/CCM.0000000000004709. PMID: [33156120](http://pubmed.gov/33156120).
