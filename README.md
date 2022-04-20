@@ -91,6 +91,7 @@ Sep;46(9):1411-1420. doi: 10.1097/CCM.0000000000003262. PMID: [29979221](http://
 
 Trials
 1. Birudaraju D, Hamal S, Tayek JA. Solumedrol Treatment for Severe Sepsis in Humans with a Blunted Adrenocorticotropic Hormone-Cortisol Response: A Prospective Randomized Double-Blind Placebo-Controlled Pilot Clinical Trial. J Intensive Care Med. 2021 Sep 13:8850666211038883. PMID: [34516312](http://pubmed.gov/34516312).
+2. Agarwal M, Dhar M, Agarwal D, Murlidharan A. Early Initiation of Low-Dose Hydrocortisone Therapy for Septic Shock in Geriatric Patients: A Randomized Control Trial. J Assoc Physicians India. 2022 Feb;70(2):11-12. PMID: [35436823](http://pubmed.gov/35436823).
 
 Other
 1. Wong HR, Hart KW, Lindsell CJ, Sweeney TE. External Corroboration That Corticosteroids May Be Harmful to Septic Shock Endotype A Patients. Crit Care Med. 2020 Nov 5. doi: 10.1097/CCM.0000000000004709. PMID: [33156120](http://pubmed.gov/33156120).
